@@ -10,6 +10,6 @@
 ## Project screenshots
 
 
-![Windows environments](/proof_ar_1.png)
-![Windows environments](/proof_ar_2.png)
-![Windows environments](/proof_ar_2.png)
+![Windows environments](/proof_ar_1.jpg)
+![Windows environments](/proof_ar_2.jpg)
+![Windows environments](/proof_ar_2.jpg)
